@@ -1,5 +1,15 @@
 {
-    "header":{
-        "hello world": "Hola Mundo"
+    "navbar":{
+        "espanol":"Espanol",
+        "ingles":"Ingles",
+        "inicio":"Inicio"
+    },
+    "body":{
+        "nombre":"Angel",
+        "descripcion":"Mi nombre es Angel, soy estudiante de la Universidad Tecnologica de Aguascalientes, cursando actualmente el 8vo cuatrimestre de la carrera Ingenieria en Desarollo y Gestion de Software",
+        "tecnologias":"Javascript, Nodejs, Laravel, MongoDB, SQL, Git",
+        "contador":"Contar visita",
+        "contador2":"Contador de Visitas",
+        "DescripcionTecnologias":"Las Tecnologias que eh usado son:"
     }
 }
